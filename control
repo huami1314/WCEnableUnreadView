@@ -1,0 +1,9 @@
+Package: com.huami.WCEnableUnreadView
+Name: WCEnableUnreadView
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: https://github.com/huami1314/WCEnableUnreadView
+Maintainer: huami
+Author: huami
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
